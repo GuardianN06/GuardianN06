@@ -14,16 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center">Hello there 👋</h1>
 <h1 align="center">I'm GuardianN06</h1>
 <h3 align="center">Full-stack developer and red-teamer, constantly learning.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=guardiann06&label=Profile%20views&color=889aa5&style=flat" alt="guardiann06" /> </p>
-
-
-###
-
-<h1 align="center">Hello there 👋</h1>
 
 ###
 
@@ -54,3 +48,6 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<h3 align="left">My Profile🔥</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=guardiann06&label=Profile%20views&color=889aa5&style=flat" alt="guardiann06" /> </p>

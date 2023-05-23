@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 ###
 
 <h3 align="left">My Profile🔥</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=guardiann06&label=Profile%20views&color=889aa5&style=flat" alt="guardiann06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guardiann06&label=Profile%20views&color=889aa5&style=flat" alt="guardiann06" /> </p>

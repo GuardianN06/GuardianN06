@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello there 👋</h1>
-<h1 align="center">I'm GuardianN06</h1>
+<h1 align="center">Hello there 👋<br>I'm GuardianN06</h1>
+
 <h3 align="center">Full-stack developer and red-teamer, constantly learning.</h3>
 
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Guardian N06<br><br>- 🔭 I’m currently a student in high school<br>- 📚 I'm currently learning to be a hacker<br>- ⚡ In my free time I make simple software</p>
+<br>- 🔭 I’m currently a student in high school<br>- 📚 I'm currently learning to be a hacker<br>- ⚡ In my free time I make simple software</p>
 
 ###
 

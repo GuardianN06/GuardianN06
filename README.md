@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm GuardianN06</h1>
 <h3 align="center">Full-stack developer and red-teamer, constantly learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guardiann06&label=Profile%20views&color=889aa5&style=flat" alt="guardiann06" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=guardiann06&label=Profile%20views&color=889aa5&style=flat" alt="guardiann06" /> </p>
 
 
 ###

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guardiann06&label=Profile%20views&color=889aa5&style=flat" alt="guardiann06" /> </p>
 <h1 align="center">Hello there 👋<br>I'm GuardianN06</h1>
 
-<h3 align="center">Full-stack developer and red-teamer, constantly learning.</h3>
+<h3 align="center">Full-stack developer and red-teamer</h3>
 
 
 ###
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<br>- 🔭 I’m currently a student in high school<br>- 📚 I'm currently learning to be a hacker<br>- ⚡ In my free time I make simple software</p>
+<br>- Have knowledge about computers and IoT devices<br>- I am a junior developer<br>- In my free time I make simple software</p>
 
 ###
 

@@ -21,16 +21,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guardiann06&label=Profile%20views&color=889aa5&style=flat" alt="guardiann06" /> </p>
 
 
-
-###
-
-<div align="center">
-  <a href="Daddy Penguin#8830" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</div>
-
 ###
 
 <h1 align="center">Hello there 👋</h1>

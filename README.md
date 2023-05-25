@@ -1,19 +1,5 @@
 ###
 
-<!--
-**GuardianN06/GuardianN06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guardiann06&label=Profile%20views&color=889aa5&style=flat" alt="guardiann06" /> </p>
 <h1 align="center">Hello there 👋<br>I'm GuardianN06</h1>
 
@@ -49,3 +35,17 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<h3 align="left">🔥 My Statistics</h3>
+
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/GuardianN06">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=GuardianN06&theme=radical&hide_border=true&mode=weekly&fire=EB2323" alt="Github streak">
+  </a>
+    <a href="https://github.com/GuardianN06">
+    <img src="https://github-readme-stats.vercel.app/api?username=GuardianN06&include_all_commits=true&hide_border=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,141321,862a56" alt="Stats">
+  </a>
+</p>
